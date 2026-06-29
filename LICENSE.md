@@ -1,4 +1,4 @@
-# 
+# Instantâneo JetBrains PyCharm predefinições para Mac OS | Automático JetBrains PyCharm predefinições para PC Windows. Com suporte a temas e desfazer com um clique — otimizado para máximo desempenho em cada plataforma.
 
 
 
